@@ -1,5 +1,7 @@
 Hello! In this project weather application I've used Toastify, Tailwind, Luxon, uuid, Uil icons, React, and Open Weather API. 
 
+Assuming you've pulled this project: 
+
 This application uses https://openweathermap.org/api and their services to deliver weather information to you! Get your personal API-key there, it's free!
 
 Once this key has been acquired, to properly use this React application, insert the key here to src/weatherService.js: 
