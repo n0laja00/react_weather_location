@@ -1,3 +1,33 @@
+Hello! In this project weather application I've used Toastify, Tailwind, Luxon, uuid, Uil icons, React, and Open Weather API. 
+
+This application uses https://openweathermap.org/api and their services to deliver weather information to you! Get your personal API-key there, it's free!
+
+Once this key has been acquired, to properly use this React application, insert the key here to src/weatherService.js: 
+
+![image](https://user-images.githubusercontent.com/73889850/185575584-eaad3dd1-4691-4ac3-aa2d-b3a55900349d.png)
+
+Your new API-keys take about 30-minutes to become online. Once your API-key works, the application will give you this screen after running: 
+```
+  npm start
+```
+on the terminal: 
+
+![image](https://user-images.githubusercontent.com/73889850/185576356-65f7a2ff-e1d1-42ac-933c-fd0e4d83fac1.png)
+Weather will be different when you yourself run the application. 
+
+Click the towns you see at the top or search for you own using city names. To get weather from your geolocation (if any exist), click this icon:
+
+![image](https://user-images.githubusercontent.com/73889850/185576726-8ab45177-6ae9-4549-b972-87c6bd361f6e.png)
+
+The application will notify you if it failed or succeeded. 
+
+To change from Celsius to Fahrenheit, click F:
+![image](https://user-images.githubusercontent.com/73889850/185576932-6dec859c-31b9-4811-af4f-9896aaff1830.png)
+
+And congratulations! You know how to use this app! 
+
+For full React App documentation, look at the default read me below:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
